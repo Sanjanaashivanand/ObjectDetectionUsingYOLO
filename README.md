@@ -6,7 +6,7 @@ This project utilizes YOLO (You Only Look Once), a real-time object detection sy
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/object-detection-yolo.git](https://github.com/Sanjanaashivanand/ObjectDetectionUsingYOLO.git
+   git clone https://github.com/Sanjanaashivanand/ObjectDetectionUsingYOLO.git
    cd object-detection-yolo
    ```
 
